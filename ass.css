@@ -1,0 +1,14 @@
+.card
+{
+  box-shadow: 0 5px 5px 0;
+  text-align: center;
+  background-color:seashell;
+  padding: 10px;
+  }
+.text{
+  text-align: center;
+}
+.flue{
+  background-image: url(https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2015%2F07%2Fhogwarts_0_0_0.jpg&q=85);
+}
+ 
